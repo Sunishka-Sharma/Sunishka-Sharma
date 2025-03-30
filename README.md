@@ -1,7 +1,7 @@
 # Sunishka Sharma
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGUwaTR0bHVyZnpjOXUxeHY3ZG9nYXF1cng3OWo1azhiM2xtMmlxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Computer Architecture Animation" width="600"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnoxdG9sZ3c3a3I5eHQwdW51eTg2a3R2cHF0aWc2c2wwZmdwbjh2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0IFrHkIglEOg8Ba/giphy.gif" alt="Space Animation" width="600"/>
 </div>
 
 ## About Me
@@ -11,7 +11,7 @@
 - 🔭 Space enthusiast and former President of Astronuts, the astronomy society of IIITD
 - 🧠 AI and Computer Architecture specialist with experience in both hardware design and neural network optimization
 - 🌱 Philosophy enthusiast with perfect GPA in all philosophy electives
-- 💡 Passionate about the intersection of AI alignment, hardware acceleration, and systems optimization
+- 💡 Passionate about the intersection of technology, animals, ethics, and AI alignment
 
 ## Professional Experience
 
@@ -41,7 +41,19 @@
 - Contributed to research in neuropsychiatry and ADHD diagnosis using deep learning
 - Developed models to identify patterns in neurological data
 - Collaborated with interdisciplinary teams spanning computer science and psychology
-- Optimized neural network implementations for resource-constrained medical systems
+
+
+## Skills
+
+```python
+skills = {
+    'Technical': ['Machine Learning', 'Deep Learning', 'Big Data', 'Computer Architecture', 
+                 'C++', 'Python', 'TypeScript'],
+    'Soft Skills': ['Public Speaking', 'Parliamentary Debate', 'Marketing', 'Leadership'],
+    'Research Areas': ['Philosophy of Technology', 'Space Technology', 'AI Ethics', 
+                      'Algorithm Accountability', 'Cognitive Science']
+}
+```
 
 ## Technical Specializations
 

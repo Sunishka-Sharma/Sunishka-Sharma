@@ -58,61 +58,61 @@ skills = {
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">AI Ethics & Philosophy Portfolio</h3>
+      <h3 align="center">LLM Alignment Evaluator</h3>
       <div align="center">
-        <a href="https://Sunishka-Sharma.github.io/anthropic-philosophy-portfolio/" target="_blank">
-          <img src="https://github.com/Sunishka-Sharma/anthropic-philosophy-portfolio/raw/main/assets/img/portfolio_preview.png" width="300" alt="Philosophy Portfolio" onerror="this.onerror=null;this.src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png';"/>
+        <a href="https://github.com/Sunishka-Sharma/llm-alignment-evaluator" target="_blank">
+          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="100" alt="LLM Alignment Evaluator"/>
         </a>
         <p>
-          <a href="https://Sunishka-Sharma.github.io/anthropic-philosophy-portfolio/" target="_blank">
-            <img src="https://img.shields.io/badge/View%20Site-blue?style=for-the-badge&logo=github" alt="View Site"/>
-          </a>
-        </p>
-        <p>Academic portfolio showcasing philosophical research on AI ethics, algorithmic accountability, and value alignment.</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Context-Aware Recommender System</h3>
-      <div align="center">
-        <a href="https://github.com/Sunishka-Sharma/recommender-system" target="_blank">
-          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="100" alt="Recommender System"/>
-        </a>
-        <p>
-          <a href="https://github.com/Sunishka-Sharma/recommender-system" target="_blank">
+          <a href="https://github.com/Sunishka-Sharma/llm-alignment-evaluator" target="_blank">
             <img src="https://img.shields.io/badge/View%20Code-orange?style=for-the-badge&logo=github" alt="View Code"/>
           </a>
         </p>
-        <p>Advanced recommendation system that integrates context-aware learning to improve accuracy in online shopping platforms.</p>
+        <p>A comprehensive framework for evaluating LLM alignment across multiple dimensions, implementing modern AI safety techniques including Constitutional AI and perspective testing.</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Ibex Demo System</h3>
+      <div align="center">
+        <a href="https://github.com/Sunishka-Sharma/ibex-demo-sys" target="_blank">
+          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" width="100" alt="Ibex Demo System"/>
+        </a>
+        <p>
+          <a href="https://github.com/Sunishka-Sharma/ibex-demo-sys" target="_blank">
+            <img src="https://img.shields.io/badge/View%20Code-blue?style=for-the-badge&logo=github" alt="View Code"/>
+          </a>
+        </p>
+        <p>A demonstration system for the Ibex RISC-V core, implementing SystemVerilog, C and Rust for embedded applications and FPGA synthesis.</p>
       </div>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">Planti - Crop Yield Prediction</h3>
+      <h3 align="center">RISC-V Implementation</h3>
       <div align="center">
-        <a href="https://github.com/MasterChief02/Anveshan" target="_blank">
-          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="100" alt="Crop Prediction"/>
+        <a href="https://github.com/Sunishka-Sharma/risc5" target="_blank">
+          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/verilog/verilog.png" width="100" alt="RISC5" onerror="this.onerror=null;this.src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/hardware/hardware.png';"/>
         </a>
         <p>
-          <a href="https://github.com/MasterChief02/Anveshan" target="_blank">
-            <img src="https://img.shields.io/badge/View%20Code-green?style=for-the-badge&logo=github" alt="View Code"/>
-          </a>
-        </p>
-        <p>Web app integrating ML for crop yield predictions, aiding farmers with climate adaptation strategies for agricultural productivity.</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Data Analytics with Kafka Streams</h3>
-      <div align="center">
-        <a href="https://github.com/Sunishka-Sharma/kafka-analytics" target="_blank">
-          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="100" alt="Kafka Analytics"/>
-        </a>
-        <p>
-          <a href="https://github.com/Sunishka-Sharma/kafka-analytics" target="_blank">
+          <a href="https://github.com/Sunishka-Sharma/risc5" target="_blank">
             <img src="https://img.shields.io/badge/View%20Code-purple?style=for-the-badge&logo=github" alt="View Code"/>
           </a>
         </p>
-        <p>Real-time data analytics pipeline enabling dynamic analysis of publication venues, contributing to academic research efficiency.</p>
+        <p>Custom RISC-V processor implementation showcasing my expertise in computer architecture, hardware design, and low-level systems.</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Crop Yield Prediction</h3>
+      <div align="center">
+        <a href="https://github.com/Jai3-ui/Crop-Yield-Prediction-" target="_blank">
+          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="100" alt="Crop Prediction"/>
+        </a>
+        <p>
+          <a href="https://github.com/Jai3-ui/Crop-Yield-Prediction-" target="_blank">
+            <img src="https://img.shields.io/badge/View%20Code-green?style=for-the-badge&logo=github" alt="View Code"/>
+          </a>
+        </p>
+        <p>Web app integrating ML for crop yield predictions, helping farmers adapt to climate changes and optimize agricultural productivity.</p>
       </div>
     </td>
   </tr>
@@ -154,7 +154,7 @@ My passion for space exploration and astronomy has been a defining part of my ac
 ## Connect With Me
 
 <div align="center">
-  <a href="mailto:sunishka20137@iiitd.ac.in">
+  <a href="mailto:funnysuni2002@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/sunishka-sharma/">

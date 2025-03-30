@@ -1,7 +1,7 @@
 # Sunishka Sharma
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnoxdG9sZ3c3a3I5eHQwdW51eTg2a3R2cHF0aWc2c2wwZmdwbjh2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0IFrHkIglEOg8Ba/giphy.gif" alt="Space Animation" width="600"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnoxdG9sZ3c3a3I5eHQwdW51eTg2a3R2cHF0aWc2c2wwZmdwbjh2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0IFrHkIglEOg8Ba/giphy.gif" alt="Space Animation" width="100%" style="max-height: 250px; object-fit: cover;"/>
 </div>
 
 ## About Me
@@ -30,14 +30,14 @@
 ## Research Experience
 
 ### Advanced Multicore Systems Lab
-**Computer Architecture Research** (2022-2023)
+**Computer Architecture Research** (2023-2024)
 - Led research on hardware-software co-design for emerging AI workloads
 - Developed optimized processor architectures for handling large language model inference
 - Created a fully ECE-centric BTP as a CS student, bridging the gap between software and hardware
 - Applied computer architecture principles to accelerate complex computational challenges in AI
 
 ### Cognitive Science Lab
-**Deep Learning for Neuropsychiatry and ADHD Diagnosis** (2021-2022)
+**Deep Learning for Neuropsychiatry and ADHD Diagnosis** (2023-2024)
 - Contributed to research in neuropsychiatry and ADHD diagnosis using deep learning
 - Developed models to identify patterns in neurological data
 - Collaborated with interdisciplinary teams spanning computer science and psychology
@@ -106,7 +106,7 @@ specializations = {
       <h3 align="center">RISC-V Implementation</h3>
       <div align="center">
         <a href="https://github.com/Sunishka-Sharma/risc5" target="_blank">
-          <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_verilog_icon_130091.png" width="100" alt="RISC5"/>
+          <img src="https://i.imgur.com/8dI2tZD.png" width="100" alt="Verilog Logo"/>
         </a>
         <p>
           <a href="https://github.com/Sunishka-Sharma/risc5" target="_blank">

@@ -1,4 +1,4 @@
-# Sunishka Sharma <a href="https://adobe.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/888/888835.png" alt="Adobe" height="28"/></a> <a href="https://google.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/281/281764.png" alt="Google" height="28"/></a>
+# Sunishka Sharma
 
 <div align="center">
   <img src="https://i.giphy.com/media/9tx0gy37p7oXu/giphy.webp" alt="Space Animation" width="100%" style="max-height: 150px; object-fit: cover;"/>
@@ -202,16 +202,6 @@
 - 👩‍💻 **Lead at Women in Engineering**, IEEE
 - 🎓 **Instructor** for SG courses in Communication & Argumentation
 - 🎤 **Organizer and host** for TEDxIIITD
-
-## Bridging Space & Computing
-
-My dual passion for space exploration and computer systems has led to unique interdisciplinary projects:
-
-- Developed specialized hardware accelerators for astronomical data processing
-- Researched efficient computing architectures for space-based systems with limited resources
-- Led multiple stargazing events and astronomy workshops as President of Astronuts
-- Participated in international space policy discussions through SGAC
-- Applied deep learning techniques to astronomical data analysis projects
 
 ## Connect With Me
 

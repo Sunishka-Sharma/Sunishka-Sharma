@@ -1,15 +1,17 @@
 # Sunishka Sharma
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Animation" width="600"/>
+  <img src="https://media.giphy.com/media/YRddG7QRVNWkY7eUFw/giphy.gif" alt="Space Animation" width="600"/>
 </div>
 
 ## About Me
 
 - 🎓 B.Tech in CSE (Gold Medalist) from Indraprastha Institute of Information Technology, Delhi (2020-2024)
 - 👩‍💻 Member of Technical Staff at Adobe (Illustrator GenAI Engineering Team)
+- 🔭 Space enthusiast and former President of Astronuts, the astronomy society of IIITD
+- 🚀 PR and Communications member at the Space Generation Advisory Council supporting the UN Programme on Space Applications
 - 🌱 Philosophy enthusiast with perfect GPA in all philosophy electives
-- 🔭 Interested in the intersection of technology, ethics, and AI alignment
+- 💡 Passionate about the intersection of technology, ethics, and AI alignment
 
 ## Professional Experience
 
@@ -25,6 +27,20 @@
 - Utilized Adobe's highbeam data and implemented transformer models
 - Created recommender systems that generate personalized recommendations for Adobe Suite users
 
+## Research Experience
+
+### Advanced Multicore Systems Lab
+**Computer Architecture Research** (2022-2023)
+- Focused on advanced multicore systems within computer architecture
+- Created a fully ECE-centric BTP as a CS student, demonstrating interdisciplinary expertise
+- Applied computer architecture principles to complex computational challenges
+
+### Cognitive Science Lab
+**Deep Learning for Neuropsychiatry and ADHD Diagnosis** (2021-2022)
+- Contributed to research in neuropsychiatry and ADHD diagnosis using deep learning
+- Developed models to identify patterns in neurological data
+- Collaborated with interdisciplinary teams spanning computer science and psychology
+
 ## Skills
 
 ```python
@@ -32,8 +48,8 @@ skills = {
     'Technical': ['Machine Learning', 'Deep Learning', 'Big Data', 'Computer Architecture', 
                  'C++', 'Python', 'TypeScript'],
     'Soft Skills': ['Public Speaking', 'Parliamentary Debate', 'Marketing', 'Leadership'],
-    'Research Areas': ['Philosophy of Technology', 'Engineering Ethics', 'AI Ethics', 
-                      'Algorithm Accountability']
+    'Research Areas': ['Philosophy of Technology', 'Space Technology', 'AI Ethics', 
+                      'Algorithm Accountability', 'Cognitive Science']
 }
 ```
 
@@ -104,7 +120,11 @@ skills = {
 
 ## Awards & Achievements
 
-- 🏆 **Google Generation Scholar 2022 (APAC region)** - Selected from 14,078 applicants
+- 🏆 **Google Generation Scholar 2022 (APAC region)**
+  - One of only 55 women selected from 14,078 applicants across Asia-Pacific
+  - Only student from IIITD to receive this prestigious award in recent years
+  - Recognized for commitment to diversity, equity, inclusion, and academic excellence
+
 - 🥇 **CSE Gold Medalist** - Best all-rounder performance in graduating batch
 - 🏅 **Dean's List Award** (2022, 2023) - For outstanding achievements and leadership
 - 🥇 **EA International College Forecasting Tournament 2022** - Gold winners, beating Stanford, Cambridge, Georgia Tech, Chicago, and Yale
@@ -112,12 +132,24 @@ skills = {
 
 ## Leadership & Involvement
 
-- President of Philosoc (Philosophy Club of IIITD)
-- Lead Facilitator of Effective Altruism at IIITD
-- Head of PR and Publicity at Odyssey IIITD (100,000+ footfall festival)
-- Lead at Women in Engineering, IEEE
-- Instructor for SG course - Communication & Argumentation
-- Organizer and host for TEDxIIITD
+- 🌠 **President of Astronuts** (Astronomy Society of IIITD)
+- 🚀 **PR and Communications Member** at Space Generation Advisory Council (SGAC)
+- 🧠 **President of Philosoc** (Philosophy Club of IIITD)
+- 👥 **Lead Facilitator** of Effective Altruism at IIITD
+- 📢 **Head of PR and Publicity** at Odyssey IIITD (100,000+ footfall festival)
+- 👩‍💻 **Lead at Women in Engineering**, IEEE
+- 🎓 **Instructor** for SG courses in Communication & Argumentation
+- 🎤 **Organizer and host** for TEDxIIITD
+
+## Space & Astronomy Involvement
+
+My passion for space exploration and astronomy has been a defining part of my academic journey:
+
+- Helped organize the second-ever SG[India] and the first SGAC x ECSL Model UN COPUOS
+- Led multiple stargazing events and astronomy workshops as President of Astronuts
+- Participated in international space policy discussions through SGAC
+- Connected technology and space policy through various outreach initiatives
+- Applied deep learning techniques to astronomical data analysis projects
 
 ## Connect With Me
 

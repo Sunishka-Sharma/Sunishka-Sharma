@@ -7,7 +7,7 @@
 ## About Me
 
 - 🎓 B.Tech in CSE (Gold Medalist) from Indraprastha Institute of Information Technology, Delhi (2020-2024)
-- 👩‍💻 Member of Technical Staff at Adobe (Illustrator GenAI Engineering Team)
+- 👩‍💻 Member of Technical Staff at <img src="https://img.shields.io/badge/Adobe-FF0000?style=flat-square&logo=adobe&logoColor=white" alt="Adobe" align="center" height="20"/> (Illustrator GenAI Engineering Team)
 - 🔭 Space enthusiast and former President of Astronuts, the astronomy society of IIITD
 - 🧠 AI and Computer Architecture specialist with experience in both hardware design and neural network optimization
 - 🌱 Philosophy enthusiast with perfect GPA in all philosophy electives
@@ -15,7 +15,7 @@
 
 ## Professional Experience
 
-### Adobe
+### <img src="https://img.shields.io/badge/Adobe-FF0000?style=flat-square&logo=adobe&logoColor=white" alt="Adobe" align="center" height="22"/> Adobe
 **Member of Technical Staff** (Jun 2024 - Present)
 - Core contributor to Adobe Illustrator's GenAI engineering team
 - Developing Firefly-powered GenAI capabilities and stroke-based AI models
@@ -137,7 +137,7 @@
       <h3 align="center">Ibex Demo System</h3>
       <div align="center">
         <a href="https://github.com/Sunishka-Sharma/ibex-demo-sys" target="_blank">
-          <img src="https://cdn-icons-png.flaticon.com/512/12951/12951688.png" width="100" alt="FPGA Chip"/>
+          <img src="https://cdn-icons-png.flaticon.com/512/4862/4862018.png" width="100" alt="Motherboard"/>
         </a>
         <p>
           <a href="https://github.com/Sunishka-Sharma/ibex-demo-sys" target="_blank">
@@ -182,26 +182,26 @@
 
 ## Awards & Achievements
 
-- 🏆 **Google Generation Scholar 2022 (APAC region)**
+- 🏆 **<img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google" align="center" height="20"/> Generation Scholar 2022 (APAC region)**
   - One of only 55 women selected from 14,078 applicants across Asia-Pacific
   - Only student from IIITD to receive this prestigious award in recent years
   - Recognized for commitment to diversity, equity, inclusion, and academic excellence
 
 - 🥇 **CSE Gold Medalist** - Best all-rounder performance in graduating batch
 - 🏅 **Dean's List Award** (2022, 2023) - For outstanding achievements and leadership
-- 🥇 **EA International College Forecasting Tournament 2022** - Gold winners, beating Stanford, Cambridge, Georgia Tech, Chicago, and Yale
+- 🥇 **<img src="https://img.shields.io/badge/EA-000000?style=flat-square&logo=electronic-arts&logoColor=white" alt="EA" align="center" height="20"/> International College Forecasting Tournament 2022** - Gold winners, beating Stanford, Cambridge, Georgia Tech, Chicago, and Yale
 - 🎤 **National Debate Achievements** - Won 25+ debates across numerous national tournaments
 
 ## Leadership & Involvement
 
 - 🌠 **President of Astronuts** (Astronomy Society of IIITD)
-- 🚀 **PR and Communications Member** at Space Generation Advisory Council (SGAC)
+- 🚀 **PR and Communications Member** at <img src="https://img.shields.io/badge/SGAC-0B3D91?style=flat-square&logo=nasa&logoColor=white" alt="SGAC" align="center" height="20"/> Space Generation Advisory Council
 - 🧠 **President of Philosoc** (Philosophy Club of IIITD)
 - 👥 **Lead Facilitator** of Effective Altruism at IIITD
 - 📢 **Head of PR and Publicity** at Odyssey IIITD (100,000+ footfall festival)
-- 👩‍💻 **Lead at Women in Engineering**, IEEE
+- 👩‍💻 **Lead at Women in Engineering**, <img src="https://img.shields.io/badge/IEEE-00629B?style=flat-square&logo=ieee&logoColor=white" alt="IEEE" align="center" height="20"/>
 - 🎓 **Instructor** for SG courses in Communication & Argumentation
-- 🎤 **Organizer and host** for TEDxIIITD
+- 🎤 **Organizer and host** for <img src="https://img.shields.io/badge/TEDx-E62B1E?style=flat-square&logo=ted&logoColor=white" alt="TEDx" align="center" height="20"/> IIITD
 
 ## Bridging Space & Computing
 

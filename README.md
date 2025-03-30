@@ -1,4 +1,4 @@
-# Sunishka Sharma <img src="https://img.shields.io/badge/Adobe-FF0000?style=flat-square&logo=adobe&logoColor=white" alt="Adobe" height="28"/> <img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google" height="28"/>
+# Sunishka Sharma <a href="https://adobe.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/888/888835.png" alt="Adobe" height="28"/></a> <a href="https://google.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/281/281764.png" alt="Google" height="28"/></a>
 
 <div align="center">
   <img src="https://i.giphy.com/media/9tx0gy37p7oXu/giphy.webp" alt="Space Animation" width="100%" style="max-height: 150px; object-fit: cover;"/>

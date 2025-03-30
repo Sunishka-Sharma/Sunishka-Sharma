@@ -1,7 +1,7 @@
 # Sunishka Sharma
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnoxdG9sZ3c3a3I5eHQwdW51eTg2a3R2cHF0aWc2c2wwZmdwbjh2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0IFrHkIglEOg8Ba/giphy.gif" alt="Space Animation" width="100%" style="max-height: 250px; object-fit: cover;"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnoxdG9sZ3c3a3I5eHQwdW51eTg2a3R2cHF0aWc2c2wwZmdwbjh2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0IFrHkIglEOg8Ba/giphy.gif" alt="Space Animation" width="100%" style="max-height: 150px; object-fit: cover;"/>
 </div>
 
 ## About Me
@@ -90,7 +90,7 @@ specializations = {
       <h3 align="center">Ibex Demo System</h3>
       <div align="center">
         <a href="https://github.com/Sunishka-Sharma/ibex-demo-sys" target="_blank">
-          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" width="100" alt="Ibex Demo System"/>
+          <img src="https://i.imgur.com/rDYQcmc.png" width="100" alt="FPGA Chip"/>
         </a>
         <p>
           <a href="https://github.com/Sunishka-Sharma/ibex-demo-sys" target="_blank">
@@ -106,7 +106,7 @@ specializations = {
       <h3 align="center">RISC-V Implementation</h3>
       <div align="center">
         <a href="https://github.com/Sunishka-Sharma/risc5" target="_blank">
-          <img src="https://i.imgur.com/8dI2tZD.png" width="100" alt="Verilog Logo"/>
+          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" width="100" alt="C Language"/>
         </a>
         <p>
           <a href="https://github.com/Sunishka-Sharma/risc5" target="_blank">

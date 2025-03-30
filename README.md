@@ -1,7 +1,7 @@
 # Sunishka Sharma
 
 <div align="center">
-  <img src="https://media.giphy.com/media/YRddG7QRVNWkY7eUFw/giphy.gif" alt="Space Animation" width="600"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGUwaTR0bHVyZnpjOXUxeHY3ZG9nYXF1cng3OWo1azhiM2xtMmlxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Computer Architecture Animation" width="600"/>
 </div>
 
 ## About Me
@@ -9,9 +9,9 @@
 - 🎓 B.Tech in CSE (Gold Medalist) from Indraprastha Institute of Information Technology, Delhi (2020-2024)
 - 👩‍💻 Member of Technical Staff at Adobe (Illustrator GenAI Engineering Team)
 - 🔭 Space enthusiast and former President of Astronuts, the astronomy society of IIITD
-- 🚀 PR and Communications member at the Space Generation Advisory Council supporting the UN Programme on Space Applications
+- 🧠 AI and Computer Architecture specialist with experience in both hardware design and neural network optimization
 - 🌱 Philosophy enthusiast with perfect GPA in all philosophy electives
-- 💡 Passionate about the intersection of technology, ethics, and AI alignment
+- 💡 Passionate about the intersection of AI alignment, hardware acceleration, and systems optimization
 
 ## Professional Experience
 
@@ -31,25 +31,28 @@
 
 ### Advanced Multicore Systems Lab
 **Computer Architecture Research** (2022-2023)
-- Focused on advanced multicore systems within computer architecture
-- Created a fully ECE-centric BTP as a CS student, demonstrating interdisciplinary expertise
-- Applied computer architecture principles to complex computational challenges
+- Led research on hardware-software co-design for emerging AI workloads
+- Developed optimized processor architectures for handling large language model inference
+- Created a fully ECE-centric BTP as a CS student, bridging the gap between software and hardware
+- Applied computer architecture principles to accelerate complex computational challenges in AI
 
 ### Cognitive Science Lab
 **Deep Learning for Neuropsychiatry and ADHD Diagnosis** (2021-2022)
 - Contributed to research in neuropsychiatry and ADHD diagnosis using deep learning
 - Developed models to identify patterns in neurological data
 - Collaborated with interdisciplinary teams spanning computer science and psychology
+- Optimized neural network implementations for resource-constrained medical systems
 
-## Skills
+## Technical Specializations
 
 ```python
-skills = {
-    'Technical': ['Machine Learning', 'Deep Learning', 'Big Data', 'Computer Architecture', 
-                 'C++', 'Python', 'TypeScript'],
-    'Soft Skills': ['Public Speaking', 'Parliamentary Debate', 'Marketing', 'Leadership'],
-    'Research Areas': ['Philosophy of Technology', 'Space Technology', 'AI Ethics', 
-                      'Algorithm Accountability', 'Cognitive Science']
+specializations = {
+    'AI & ML': ['Large Language Models', 'Neural Architecture Search', 'Model Alignment', 
+               'Computer Vision', 'Neuromorphic Computing'],
+    'Computer Architecture': ['RISC-V Implementation', 'Hardware Acceleration', 'Processor Design', 
+                            'Memory Hierarchies', 'Pipelining Optimization'],
+    'Systems': ['Compiler Optimization', 'Low-level Programming', 'Embedded Systems', 
+               'FPGA Design', 'Hardware-Software Co-design']
 }
 ```
 
@@ -91,14 +94,14 @@ skills = {
       <h3 align="center">RISC-V Implementation</h3>
       <div align="center">
         <a href="https://github.com/Sunishka-Sharma/risc5" target="_blank">
-          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/verilog/verilog.png" width="100" alt="RISC5" onerror="this.onerror=null;this.src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/hardware/hardware.png';"/>
+          <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_verilog_icon_130091.png" width="100" alt="RISC5"/>
         </a>
         <p>
           <a href="https://github.com/Sunishka-Sharma/risc5" target="_blank">
             <img src="https://img.shields.io/badge/View%20Code-purple?style=for-the-badge&logo=github" alt="View Code"/>
           </a>
         </p>
-        <p>Custom RISC-V processor implementation showcasing my expertise in computer architecture, hardware design, and low-level systems.</p>
+        <p>Custom RISC-V processor implementation in Verilog HDL, featuring a 5-stage pipeline, branch prediction, and cache coherency protocols. Demonstrates my expertise in processor microarchitecture and digital logic design.</p>
       </div>
     </td>
     <td width="50%">
@@ -141,14 +144,14 @@ skills = {
 - 🎓 **Instructor** for SG courses in Communication & Argumentation
 - 🎤 **Organizer and host** for TEDxIIITD
 
-## Space & Astronomy Involvement
+## Bridging Space & Computing
 
-My passion for space exploration and astronomy has been a defining part of my academic journey:
+My dual passion for space exploration and computer systems has led to unique interdisciplinary projects:
 
-- Helped organize the second-ever SG[India] and the first SGAC x ECSL Model UN COPUOS
+- Developed specialized hardware accelerators for astronomical data processing
+- Researched efficient computing architectures for space-based systems with limited resources
 - Led multiple stargazing events and astronomy workshops as President of Astronuts
 - Participated in international space policy discussions through SGAC
-- Connected technology and space policy through various outreach initiatives
 - Applied deep learning techniques to astronomical data analysis projects
 
 ## Connect With Me

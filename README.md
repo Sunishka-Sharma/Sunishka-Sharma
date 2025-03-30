@@ -1,7 +1,7 @@
 # Sunishka Sharma
 
 <div align="center">
-  <img src="https://media.giphy.com/media/9tx0gy37p7oXu/giphy.gif?cid=790b7611tz4gx90cz2qsgxqmvqkj3oxn9ynpda2dwr6xazt2&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Space Animation" width="100%" style="max-height: 150px; object-fit: cover;"/>
+  <img src="https://i.giphy.com/media/9tx0gy37p7oXu/giphy.webp" alt="Space Animation" width="100%" style="max-height: 150px; object-fit: cover;"/>
 </div>
 
 ## About Me
@@ -43,30 +43,77 @@
 - Collaborated with interdisciplinary teams spanning computer science and psychology
 
 
-## Skills
+## Skills & Expertise
 
-```python
-skills = {
-    'Technical': ['Machine Learning', 'Deep Learning', 'Big Data', 'Computer Architecture', 
-                 'C++', 'Python', 'TypeScript'],
-    'Soft Skills': ['Public Speaking', 'Parliamentary Debate', 'Marketing', 'Leadership'],
-    'Research Areas': ['Philosophy of Technology', 'Space Technology', 'AI Ethics', 
-                      'Algorithm Accountability', 'Cognitive Science']
-}
-```
+<div align="center">
+
+### Technical Skills
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-4285F4?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)
+![Big Data](https://img.shields.io/badge/Big_Data-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Computer Architecture](https://img.shields.io/badge/Computer_Architecture-0078D6?style=for-the-badge&logo=intel&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Soft Skills
+![Public Speaking](https://img.shields.io/badge/Public_Speaking-8E44AD?style=for-the-badge)
+![Parliamentary Debate](https://img.shields.io/badge/Parliamentary_Debate-2C3E50?style=for-the-badge)
+![Marketing](https://img.shields.io/badge/Marketing-16A085?style=for-the-badge)
+![Leadership](https://img.shields.io/badge/Leadership-D35400?style=for-the-badge)
+
+### Research Areas
+![Philosophy of Technology](https://img.shields.io/badge/Philosophy_of_Technology-7D3C98?style=for-the-badge)
+![Space Technology](https://img.shields.io/badge/Space_Technology-1A5276?style=for-the-badge)
+![AI Ethics](https://img.shields.io/badge/AI_Ethics-2E86C1?style=for-the-badge)
+![Algorithm Accountability](https://img.shields.io/badge/Algorithm_Accountability-2471A3?style=for-the-badge)
+![Cognitive Science](https://img.shields.io/badge/Cognitive_Science-1ABC9C?style=for-the-badge)
+
+</div>
 
 ## Technical Specializations
 
-```python
-specializations = {
-    'AI & ML': ['Large Language Models', 'Neural Architecture Search', 'Model Alignment', 
-               'Computer Vision', 'Neuromorphic Computing'],
-    'Computer Architecture': ['RISC-V Implementation', 'Hardware Acceleration', 'Processor Design', 
-                            'Memory Hierarchies', 'Pipelining Optimization'],
-    'Systems': ['Compiler Optimization', 'Low-level Programming', 'Embedded Systems', 
-               'FPGA Design', 'Hardware-Software Co-design']
-}
-```
+<details>
+<summary><b>🧠 AI & Machine Learning</b></summary>
+<br>
+<div align="center">
+  
+![Large Language Models](https://img.shields.io/badge/Large_Language_Models-FF5700?style=flat-square)
+![Neural Architecture Search](https://img.shields.io/badge/Neural_Architecture_Search-3498DB?style=flat-square)
+![Model Alignment](https://img.shields.io/badge/Model_Alignment-9B59B6?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-1ABC9C?style=flat-square)
+![Neuromorphic Computing](https://img.shields.io/badge/Neuromorphic_Computing-F1C40F?style=flat-square)
+  
+</div>
+</details>
+
+<details>
+<summary><b>💻 Computer Architecture</b></summary>
+<br>
+<div align="center">
+  
+![RISC-V Implementation](https://img.shields.io/badge/RISC--V_Implementation-FF5733?style=flat-square)
+![Hardware Acceleration](https://img.shields.io/badge/Hardware_Acceleration-3498DB?style=flat-square)
+![Processor Design](https://img.shields.io/badge/Processor_Design-2ECC71?style=flat-square)
+![Memory Hierarchies](https://img.shields.io/badge/Memory_Hierarchies-9B59B6?style=flat-square)
+![Pipelining Optimization](https://img.shields.io/badge/Pipelining_Optimization-E67E22?style=flat-square)
+  
+</div>
+</details>
+
+<details>
+<summary><b>⚙️ Systems Engineering</b></summary>
+<br>
+<div align="center">
+  
+![Compiler Optimization](https://img.shields.io/badge/Compiler_Optimization-2C3E50?style=flat-square)
+![Low-level Programming](https://img.shields.io/badge/Low--level_Programming-E74C3C?style=flat-square)
+![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-27AE60?style=flat-square)
+![FPGA Design](https://img.shields.io/badge/FPGA_Design-3498DB?style=flat-square)
+![Hardware-Software Co-design](https://img.shields.io/badge/Hardware--Software_Co--design-8E44AD?style=flat-square)
+  
+</div>
+</details>
 
 ## Projects
 
